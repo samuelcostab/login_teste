@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975953878141",
+    "firebase_url": "https://logintesteflutter.firebaseio.com",
+    "project_id": "logintesteflutter",
+    "storage_bucket": "logintesteflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975953878141:android:961f18710c202a5c",
+        "android_client_info": {
+          "package_name": "com.example.login_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975953878141-rmnupfjfrcm5ujgjfqfvdv27cb41sjea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE8VjDcZiXj4fpEH_tM5T7EKSiwGqJs1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975953878141-rmnupfjfrcm5ujgjfqfvdv27cb41sjea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
